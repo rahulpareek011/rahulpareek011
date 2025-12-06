@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Pareek (A passionate Full Stack Java Developer)</h1>
 
-💫 About Me:<br> 👯 I’m looking for **Open source projects, StartUps, Internship or a Job** <br> 🌱 I’m currently learning **Advance java and Spring Boot**<br>💬 Ask me about **Core java , react , tailwind , DSA in java , JavaScript ,Bootstrap , Html and Css , Git&GitHub**<br>⚡ Fun fact - **I am very Positive and Funny Person who loves to code and other than it I read books, play sports , loves video editing and content creation**
+💫 About Me:<br> 👯 I’m looking for **Open source projects, StartUps, Internship or a Job** <br> 🌱 I’m currently learning **Advance java and Spring Boot**<br>💬 Ask me about **Core java , react , tailwind , DSA in java , JavaScript ,Bootstrap , Html and Css , Git&GitHub**<br>⚡ Fun fact - **As a Person I am very Positive who loves to code and other than it I read books, play sports , loves video editing and content creation**
 
 
 ## 🌐 Socials:
