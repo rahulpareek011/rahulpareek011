@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Pareek (A passionate Full Stack Java Developer)</h1>
 
-💫 About Me:<br> 👯 I’m looking for **Open source projects, StartUps, Internship or a Job** <br> 🌱 I’m currently learning **Advance java and Spring Boot**<br>💬 Ask me about **Java , Java 8, JDBC, Servlet, JSP, Spring Core, Spring Boot, Hibernate, Data JPA, DSA in java , JavaScript, React, MySQL, Git&GitHub**<br>⚡ Fun fact - **As a Person I am very Positive who loves to code and other than it I read books, play sports , loves video editing and content creation**
+💫 About Me:<br> 👯 I’m looking for **Open source projects, StartUps, Internship or a Software Engineer Role** <br> 🌱 I’m currently learning **Advance Backend System Devlopment with System Design Concept like HLD, LLD**<br>💬 Ask me about **Core Java, Java 8, JDBC, Servlet, Spring Core, Spring Boot, Hibernate, Data JPA, Spring Security, Aspect Oriented Programming, MicroServices, MySQL, Git & GitHub, Reactive Programming, Pam, Basic Linux cmds, Kubernetes, System Design, ELK, Apache Kafka, Redis, Ec2, HTML&CSS, JavaScript, React, DSA in java**<br>⚡ Fun fact - **As a Person I am very Positive who loves to code and other than it I read books, play sports , loves video editing and content creation**
 
 
 ## 🌐 Socials:
